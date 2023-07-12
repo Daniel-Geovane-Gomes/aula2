@@ -15,7 +15,7 @@ public class SegundaAula {
         int anoNasc = 2005;
         double altura = 1.77;
         boolean eProfessor = false;
-        
+        char genero = 'M';
         
         
         System.out.println("Olá "+ name +", você tem "+ qualIdade(anoNasc) +" anos");
