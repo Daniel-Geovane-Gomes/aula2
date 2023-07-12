@@ -1,9 +1,8 @@
-package segunda.aula;
 // var futas = ["Laranja", "Maca"] <---- vetor em JavaScript
 
 
 
-
+package segunda.aula;
 
 public class SegundaAula {
 
